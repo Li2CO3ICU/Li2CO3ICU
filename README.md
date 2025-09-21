@@ -74,6 +74,7 @@
   <img src="./Skill_Icons/pc.png" width="60"/>
 </div>
 
+<p align="center"><sub>💡 我的neovim配置文件在这里，我将其称为 [Li2CO3VIM](https://github.com/Li2CO3ICU/Li2CO3VIM)</sub></p>
 ---
 
 ### 🖥️ 喜欢的操作系统

@@ -18,6 +18,7 @@
 ---
 
 ## 🛠️ 我的技能
+~~学过的东西都好杂，各个领域都有涉及啦（~~  
 
 ### 🎬 影视后期  
 ~~其实就是 Adobe 全家桶~~  
@@ -28,6 +29,7 @@
   <img src="./Skill_Icons/au.png" width="60"/>
   <img src="./Skill_Icons/LrC.png" width="60"/>
   <img src="./Skill_Icons/pt.png" width="60"/>
+  <img src="./Skill_Icons/ai.png" width="60"/>
 </div>
 
 ---
@@ -91,6 +93,15 @@
 </div>
 
 ---
+
+### 🍥 还有这些但是不知道该分什么类
+<div align="center">
+  <img src="./Skill_Icons/vmware.png" width="60"/>
+  <img src="./Skill_Icons/wireshark.png" width="60"/>
+</div>
+
+
+
 
 ## 🌐 社交媒体
 <div align="center">

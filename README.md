@@ -13,10 +13,6 @@
 🎧 **耳机**：ROG 降临 2  
 💻 **笔记本**：ASUS 天选 3 Puls  
 
-**配置**  
-- ⚙️ CPU：AMD Ryzen 7 6800H  
-- 🎮 GPU：NVIDIA RTX 3070 Ti  
-
 </div>
 
 ---
@@ -80,9 +76,9 @@
 ### 🖥️ 喜欢的操作系统
 <div align="center">
   <img src="./Skill_Icons/arch.png" width="60"/>
-  <img src="./Skill_Icons/debian.png" width="60"/>
+  <img src="./Skill_Icons/debian.png" width="50"/>
   <img src="./Skill_Icons/ubuntu.png" width="60"/>
-  <img src="./Skill_Icons/kali.png" width="60"/>
+  <img src="./Skill_Icons/kali.png" width="100"/>
   <img src="./Skill_Icons/w11.png" width="60"/>
 </div>
 

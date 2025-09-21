@@ -7,14 +7,14 @@
 ---
 
 ## 💻 My Devices
-<div align="center">
+
 
 ⌨️ **Keyboard**: RK R65  
 🖱️ **Mouse**: MCHOSE A7 Pro  
 🎧 **Headset**: ROG Cetra II Core  
 💻 **Laptop**: ASUS TUF Dash 3 Puls  
 
-</div>
+
 
 ---
 

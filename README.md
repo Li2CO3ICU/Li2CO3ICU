@@ -40,6 +40,7 @@
   <img src="./Skill_Icons/c.png" width="60"/>
   <img src="./Skill_Icons/c++.png" width="60"/>
   <img src="./Skill_Icons/py.png" width="60"/>
+  <img src="./Skill_Icons/for.png" width="60"/>
   <img src="./Skill_Icons/rust.png" width="60"/>
   <img src="./Skill_Icons/lua.png" width="60"/>
 </div>

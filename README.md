@@ -35,6 +35,7 @@
 ---
 
 ### 💻 编程语言
+~~学是学了，但是记不记得住就不一定了（~~ 
 <div align="center">
   <img src="./Skill_Icons/c.png" width="60"/>
   <img src="./Skill_Icons/c++.png" width="60"/>

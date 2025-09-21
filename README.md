@@ -59,7 +59,7 @@
 
 ### 🧪 计算机仿真
 <div align="center">
-  <img src="./Skill_Icons/ansys.png" width="60"/>
+  <img src="./Skill_Icons/ANSYS.png" width="60"/>
   <img src="./Skill_Icons/comsol.png" width="60"/>
 </div>
 

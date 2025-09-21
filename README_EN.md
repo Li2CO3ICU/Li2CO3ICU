@@ -14,10 +14,6 @@
 🎧 **Headset**: ROG Cetra II Core  
 💻 **Laptop**: ASUS TUF Dash 3 Puls  
 
-**Specs**  
-- ⚙️ CPU: AMD Ryzen 7 6800H  
-- 🎮 GPU: NVIDIA RTX 3070 Ti  
-
 </div>
 
 ---

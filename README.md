@@ -6,14 +6,14 @@
 ---
 
 ## 💻 我的设备
-<div align="center">
+
 
 ⌨️ **键盘**：RK R65  
 🖱️ **鼠标**：MCHOSE A7 Pro  
 🎧 **耳机**：ROG 降临 2  
 💻 **笔记本**：ASUS 天选 3 Puls  
 
-</div>
+
 
 ---
 

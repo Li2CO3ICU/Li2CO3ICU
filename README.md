@@ -125,7 +125,7 @@
 ## 🌐 社交媒体
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/Li2CO3ICU)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Li2_CO3)  [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/_li2co3)  [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/283731905)  
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Li2CO3ICU)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Li2_CO3)  [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/_li2co3)  [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/283731905)  
 
 </div>
 

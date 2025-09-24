@@ -1,7 +1,7 @@
 # 🏳️‍⚧️ 欢迎，这里是小锂
 *(名字来源于一种药物——碳酸锂)*  
 
-🌐 点击这里切换语言喔~ |Click here to change language | [简体中文](README.md) | [English](README_EN.md)  
+
 
 ---
 
